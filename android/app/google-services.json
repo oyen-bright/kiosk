@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "84915219341",
+    "project_id": "kroonkiosk",
+    "storage_bucket": "kroonkiosk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84915219341:android:3413645050cc9783b0abc4",
+        "android_client_info": {
+          "package_name": "com.kroon.kiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84915219341-b4sashhbl4jn1lauo9t5m7n5c5ccj1iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3X60sDTjfNtmvbe9VRsObLROIPDJdq_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84915219341-b4sashhbl4jn1lauo9t5m7n5c5ccj1iv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84915219341-37afin2t7799otgoc0rd1li2prm6ionj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kroon.Kroonkiosk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

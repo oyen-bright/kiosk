@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "7f3ae0ff088bf4b540bdae14d791b8848eaabaca3dd778297a16aa8f84253ac5"
+build_start_time: [1675783887, 475299835]
+build_end_time: [1675783887, 608826160]
+inputs:
+  "/Users/brinnixs/Documents/Flutter/Projects/Kroon-Kiosk-Flutter_bloc/ios/Runner/AppDelegate.swift": !private [1661151260, 38599014]
